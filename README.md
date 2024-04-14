@@ -4,7 +4,7 @@ This repository contains my submission for the Python Assignment for the course 
 ## Setup Instructions
 Clone this repository using the below command in terminal.
 ```
-git clone https://github.com/Manglik-R/Car-Rental-System-CS253.git
+git clone https://github.com/Manglik-R/Python-Assignment.git
 ```
 
 ## Project Structure
